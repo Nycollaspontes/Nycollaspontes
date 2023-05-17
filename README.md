@@ -3,6 +3,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycollas-pontes-3110a71a2/)
+
 Confira meu portfolio https://nycollaspontesportfolio.vercel.app/
 
 ![Nycollas Pontes GitHub stats](https://github-readme-stats.vercel.app/api?username=Nycollaspontes&show_icons=true&theme=dracula)
