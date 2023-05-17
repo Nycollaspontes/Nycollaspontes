@@ -6,7 +6,7 @@
 
 Confira meu portfolio https://nycollaspontesportfolio.vercel.app/
 
-![Nycollas Pontes GitHub stats](https://github-readme-stats.vercel.app/api?username=Nycollaspontes&show_icons=true&theme=dracula)
+![Nycollas Pontes GithubStats](https://github-readme-stats.vercel.app/api?username=nycollaspontes&show_icons=true&theme=radical)
 
 
 ### Tecnologias que eu uso no meu dia 
